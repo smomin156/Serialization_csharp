@@ -1,0 +1,7 @@
+C:\TRAINING\Serialization-Deserialization\Serialization-Deserialization\obj\Debug\Serialization-Deserialization.csproj.AssemblyReference.cache
+C:\TRAINING\Serialization-Deserialization\Serialization-Deserialization\obj\Debug\Serialization-Deserialization.csproj.CoreCompileInputs.cache
+C:\TRAINING\Serialization-Deserialization\Serialization-Deserialization\bin\Debug\Serialization.exe.config
+C:\TRAINING\Serialization-Deserialization\Serialization-Deserialization\bin\Debug\Serialization.exe
+C:\TRAINING\Serialization-Deserialization\Serialization-Deserialization\bin\Debug\Serialization.pdb
+C:\TRAINING\Serialization-Deserialization\Serialization-Deserialization\obj\Debug\Serialization.exe
+C:\TRAINING\Serialization-Deserialization\Serialization-Deserialization\obj\Debug\Serialization.pdb
